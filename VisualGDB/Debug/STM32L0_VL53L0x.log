@@ -1,0 +1,5 @@
+﻿  STM32L0_VL53L0x.c
+  Linking VisualGDB/Debug/STM32L0_VL53L0x...
+  ------------------- Memory utilization report -------------------
+  Used FLASH: 7876 bytes out of 32KB (24%) [-72]
+  Used SRAM: 160 bytes out of 8192 bytes (1%)
